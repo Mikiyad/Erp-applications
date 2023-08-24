@@ -1,0 +1,11 @@
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Release\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Release\mutilclass.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Release\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Release\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Release\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Release\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Release\mutilclass.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Release\mutilclass.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Release\mutilclass.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Release\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Release\mutilclass.pdb

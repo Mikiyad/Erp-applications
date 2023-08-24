@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{C55C6FE9-58DB-42BF-902E-0A0E3E249F55}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>7.3</LangVersion>
+    <AssemblyName>muisupctrls</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v18.2.Core">
+      <HintPath>D:\MMS\AXOLON\DevExpress.Charts.v18.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinGrid.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\Infragistics4.Win.UltraWinGrid.v18.2.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>E:\StarERP\bin\Debug\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms">
+      <HintPath>E:\StarERP\bin\Debug\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>E:\StarERP\bin\Debug\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\Infragistics4.Win.v18.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinTree.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\Infragistics4.Win.UltraWinTree.v18.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\DevExpress.XtraEditors.v18.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v18.2.UI">
+      <HintPath>E:\StarERP\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\DevExpress.XtraCharts.v18.2.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Shared.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\Infragistics4.Shared.v18.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\DevExpress.Utils.v18.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v18.2">
+      <HintPath>E:\StarERP\bin\Debug\DevExpress.Data.v18.2.dll</HintPath>
+    </Reference>
+    <ProjectReference Include="..\mclntlib\mclntlib.csproj">
+      <Project>{C51621C0-5EA9-48BE-B1D9-711194DFD8B2}</Project>
+      <Name>mclntlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\mcommtier\mcommtier.csproj">
+      <Project>{05F00394-0CDA-4B9E-ACCB-B515F5448EF9}</Project>
+      <Name>mcommtier</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Micromind.UISupport.Collections\CollectionChange.cs" />
+    <Compile Include="Micromind.UISupport.Collections\CollectionClear.cs" />
+    <Compile Include="Micromind.UISupport.Collections\CollectionWithEvents.cs" />
+    <Compile Include="Micromind.UISupport.Collections\TabPageCollection.cs" />
+    <Compile Include="Micromind.UISupport.Common\ColorHelper.cs" />
+    <Compile Include="Micromind.UISupport.Common\ControlHelper.cs" />
+    <Compile Include="Micromind.UISupport.Common\ConversionHelper.cs" />
+    <Compile Include="Micromind.UISupport.Common\DebugHelper.cs" />
+    <Compile Include="Micromind.UISupport.Common\Direction.cs" />
+    <Compile Include="Micromind.UISupport.Common\DrawHelper.cs" />
+    <Compile Include="Micromind.UISupport.Common\Edge.cs" />
+    <Compile Include="Micromind.UISupport.Common\ResourceHelper.cs" />
+    <Compile Include="Micromind.UISupport.Common\VisualStyle.cs" />
+    <Compile Include="Micromind.UISupport.Controls\InertButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport.Controls\TabControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport.Controls\TabControlDesigner.cs" />
+    <Compile Include="Micromind.UISupport.Controls\TabPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport.Controls\VisualAppearance.cs" />
+    <Compile Include="Micromind.UISupport.DataGrid\DevXChart.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport.GUIControls.Others\MMSPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport.GUIControls.Others\Statistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport.GUIControls.Others\ThumbnailViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport.Properties\Resources.cs" />
+    <Compile Include="Micromind.UISupport.Win32\AlphaFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\AnimateFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\BLENDFUNCTION.cs" />
+    <Compile Include="Micromind.UISupport.Win32\BrushStyles.cs" />
+    <Compile Include="Micromind.UISupport.Win32\CombineFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\Cursors.cs" />
+    <Compile Include="Micromind.UISupport.Win32\DialogCodes.cs" />
+    <Compile Include="Micromind.UISupport.Win32\Gdi32.cs" />
+    <Compile Include="Micromind.UISupport.Win32\GetWindowLongFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\HatchStyles.cs" />
+    <Compile Include="Micromind.UISupport.Win32\HitTest.cs" />
+    <Compile Include="Micromind.UISupport.Win32\LOGBRUSH.cs" />
+    <Compile Include="Micromind.UISupport.Win32\MouseActivateFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\MSG.cs" />
+    <Compile Include="Micromind.UISupport.Win32\Msgs.cs" />
+    <Compile Include="Micromind.UISupport.Win32\PAINTSTRUCT.cs" />
+    <Compile Include="Micromind.UISupport.Win32\PeekMessageFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\POINT.cs" />
+    <Compile Include="Micromind.UISupport.Win32\RasterOperations.cs" />
+    <Compile Include="Micromind.UISupport.Win32\RECT.cs" />
+    <Compile Include="Micromind.UISupport.Win32\SetWindowPosFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\SetWindowPosZ.cs" />
+    <Compile Include="Micromind.UISupport.Win32\ShowWindowStyles.cs" />
+    <Compile Include="Micromind.UISupport.Win32\SIZE.cs" />
+    <Compile Include="Micromind.UISupport.Win32\SPIActions.cs" />
+    <Compile Include="Micromind.UISupport.Win32\SPIWinINIFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\TrackerEventFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\TRACKMOUSEEVENTS.cs" />
+    <Compile Include="Micromind.UISupport.Win32\UpdateLayeredWindowsFlags.cs" />
+    <Compile Include="Micromind.UISupport.Win32\User32.cs" />
+    <Compile Include="Micromind.UISupport.Win32\VirtualKeys.cs" />
+    <Compile Include="Micromind.UISupport.Win32\WindowExStyles.cs" />
+    <Compile Include="Micromind.UISupport.Win32\WindowStyles.cs" />
+    <Compile Include="Micromind.UISupport\AmountTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\BALinkLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\BAPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\BtnShape.cs" />
+    <Compile Include="Micromind.UISupport\ButtonControlPaint.cs" />
+    <Compile Include="Micromind.UISupport\Colors.cs" />
+    <Compile Include="Micromind.UISupport\DataGridList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\DataGridTreeList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\DateRange.cs" />
+    <Compile Include="Micromind.UISupport\DateRanges.cs" />
+    <Compile Include="Micromind.UISupport\Design.cs" />
+    <Compile Include="Micromind.UISupport\DialogBoxBaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\flatDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\Line.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\MMComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\MMLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\MMSDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\MMSelectionBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\MMSelectionBoxTest.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\MMTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\MTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\NonDirtyPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\NumberTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\NumericKeypad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\PercentTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\QuantityTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\RecordInfoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\SelectCustomDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\SelectDocumentDialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\SlidingPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\SlidingPanelContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\textBoxNumber.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\TextControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\TreeGridList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\UnitPriceTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\WordSuggestionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\XPButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.UISupport\XPStyle.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Micromind.UISupport.Controls\TabControl.resx" />
+    <EmbeddedResource Include="Micromind.UISupport.Controls\TabPage.resx" />
+    <EmbeddedResource Include="Micromind.UISupport.GUIControls.Others\Statistics.resx" />
+    <EmbeddedResource Include="Micromind.UISupport.Properties\Resources.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\BAPanel.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\DataGridList.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\DataGridTreeList.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\DialogBoxBaseForm.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\Line.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\MMLabel.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\NumberTextBox.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\RecordInfoDialog.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\SelectCustomDate.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\SlidingPanel.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\SlidingPanelContainer.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\textBoxNumber.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\TextControl.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\TreeGridList.resx" />
+    <EmbeddedResource Include="Micromind.UISupport\WordSuggestionsForm.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

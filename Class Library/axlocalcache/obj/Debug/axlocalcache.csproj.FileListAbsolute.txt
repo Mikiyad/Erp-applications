@@ -1,0 +1,582 @@
+E:\ERP All DLL\axlocalcache\obj\Debug\axlocalcache.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\axlocalcache\obj\Debug\axlocalcache.csprojAssemblyReference.cache
+E:\ERP All DLL\axlocalcache\bin\Debug\axlocalcache.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\axlocalcache.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\mclntlib.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\mcommtier.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\axseccontrol.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\licmgr.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\mutilclass.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\fcdtier.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Data.v18.2.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.CodeParser.v18.2.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\mmsdatatier.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\DevExpress.Images.v18.2.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.Dac.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ERP All DLL\axlocalcache\bin\Debug\mcommtier.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\mclntlib.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\axseccontrol.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\licmgr.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\mutilclass.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\fcdtier.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\mmsdatatier.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\Microsoft.SqlServer.Dac.xml
+E:\ERP All DLL\axlocalcache\obj\Debug\axlocalcache.csproj.CopyComplete
+E:\ERP All DLL\axlocalcache\obj\Debug\axlocalcache.dll
+E:\ERP All DLL\axlocalcache\obj\Debug\axlocalcache.pdb
+E:\ERP All DLL\axlocalcache\bin\Debug\System.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\axlocalcache.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\axlocalcache.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mclntlib.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mcommtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\licmgr.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mutilclass.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\fcdtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mmsdatatier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dac.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mcommtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mclntlib.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\licmgr.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mutilclass.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\fcdtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\mmsdatatier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\axlocalcache.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\axlocalcache.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mclntlib.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mcommtier.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\licmgr.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mutilclass.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\fcdtier.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.CodeParser.v18.2.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mmsdatatier.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Images.v18.2.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dac.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mcommtier.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mclntlib.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\licmgr.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mutilclass.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\fcdtier.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\mmsdatatier.pdb
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.dll
+G:\Software code\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\axlocalcache.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\axlocalcache.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mclntlib.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\licmgr.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\fcdtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mmsdatatier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dac.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mclntlib.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\licmgr.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mutilclass.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\fcdtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\mmsdatatier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axlocalcache\obj\Debug\axlocalcache.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\axlocalcache.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\axlocalcache.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mclntlib.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\licmgr.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\fcdtier.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mmsdatatier.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.CodeParser.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Images.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dac.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mclntlib.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\licmgr.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mutilclass.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\fcdtier.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\mmsdatatier.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\obj\Debug\axlocalcache.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\obj\Debug\axlocalcache.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\axlocalcache\obj\Debug\axlocalcache.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\axlocalcache.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\axlocalcache.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mclntlib.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mcommtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\licmgr.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mutilclass.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\fcdtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mmsdatatier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dac.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mcommtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mclntlib.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\licmgr.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mutilclass.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\fcdtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\mmsdatatier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\obj\Debug\axlocalcache.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\obj\Debug\axlocalcache.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axlocalcache\obj\Debug\axlocalcache.pdb

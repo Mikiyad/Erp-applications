@@ -1,0 +1,8 @@
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\bin\Release\licmgr.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\bin\Release\licmgr.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\bin\Release\System.Management.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Release\licmgr.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Release\licmgr.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Release\licmgr.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Release\licmgr.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Release\licmgr.pdb

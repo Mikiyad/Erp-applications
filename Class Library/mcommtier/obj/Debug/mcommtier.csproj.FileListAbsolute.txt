@@ -1,0 +1,45 @@
+E:\ERP All DLL\mcommtier\obj\Debug\mcommtier.csprojAssemblyReference.cache
+E:\ERP All DLL\mcommtier\obj\Debug\mcommtier.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\mcommtier\bin\Debug\mcommtier.dll
+E:\ERP All DLL\mcommtier\bin\Debug\mcommtier.pdb
+E:\ERP All DLL\mcommtier\bin\Debug\axseccontrol.dll
+E:\ERP All DLL\mcommtier\bin\Debug\axseccontrol.pdb
+E:\ERP All DLL\mcommtier\obj\Debug\mcommtier.csproj.CopyComplete
+E:\ERP All DLL\mcommtier\obj\Debug\mcommtier.dll
+E:\ERP All DLL\mcommtier\obj\Debug\mcommtier.pdb
+E:\ERP All DLL\mcommtier\bin\Debug\System.dll
+E:\ERP All DLL\mcommtier\bin\Debug\System.Xml.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\bin\Debug\mcommtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\bin\Debug\mcommtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\bin\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\bin\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.pdb
+G:\Software code\Axolon\Class Library\mcommtier\bin\Debug\mcommtier.dll
+G:\Software code\Axolon\Class Library\mcommtier\bin\Debug\mcommtier.pdb
+G:\Software code\Axolon\Class Library\mcommtier\bin\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\mcommtier\bin\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.dll
+G:\Software code\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mcommtier\obj\Debug\mcommtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\bin\Debug\mcommtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\bin\Debug\mcommtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\bin\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\bin\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\obj\Debug\mcommtier.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\obj\Debug\mcommtier.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\obj\Debug\mcommtier.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\obj\Debug\mcommtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mcommtier\obj\Debug\mcommtier.pdb

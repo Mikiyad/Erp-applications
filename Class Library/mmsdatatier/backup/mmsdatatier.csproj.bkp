@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{C49C0CFB-A248-434D-B8C9-365E8306C6CB}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>7.3</LangVersion>
+    <AssemblyName>mmsdatatier</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\StarERP\bin\Debug\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>E:\StarERP\bin\Debug\System.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo">
+      <HintPath>E:\StarERP\bin\Debug\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Dac">
+      <HintPath>E:\StarERP\bin\Debug\Microsoft.SqlServer.Dac.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <HintPath>E:\StarERP\bin\Debug\System.Data.DataSetExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>E:\StarERP\bin\Debug\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo">
+      <HintPath>E:\StarERP\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <ProjectReference Include="..\mcommtier\mcommtier.csproj">
+      <Project>{05F00394-0CDA-4B9E-ACCB-B515F5448EF9}</Project>
+      <Name>mcommtier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\axseccontrol\axseccontrol.csproj">
+      <Project>{CBF39E9F-4358-4648-BE5F-5D531E4B7BC7}</Project>
+      <Name>axseccontrol</Name>
+    </ProjectReference>
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Micromind.Data.Libraries\DataHelper.cs" />
+    <Compile Include="Micromind.Data.Libraries\SQLHelper.cs" />
+    <Compile Include="Micromind.Data.Libraries\StoreQty.cs" />
+    <Compile Include="Micromind.Data.Properties\Settings.cs" />
+    <Compile Include="Micromind.Data\AccountAnalysisDetail.cs" />
+    <Compile Include="Micromind.Data\AccountGroups.cs" />
+    <Compile Include="Micromind.Data\Activity.cs" />
+    <Compile Include="Micromind.Data\ActivityLogs.cs" />
+    <Compile Include="Micromind.Data\AdjustmentType.cs" />
+    <Compile Include="Micromind.Data\Analysis.cs" />
+    <Compile Include="Micromind.Data\AnalysisGroups.cs" />
+    <Compile Include="Micromind.Data\APJournal.cs" />
+    <Compile Include="Micromind.Data\Approval.cs" />
+    <Compile Include="Micromind.Data\Area.cs" />
+    <Compile Include="Micromind.Data\ARJournal.cs" />
+    <Compile Include="Micromind.Data\ArrivalReport.cs" />
+    <Compile Include="Micromind.Data\ArrivalReportTemplate.cs" />
+    <Compile Include="Micromind.Data\AssemblyBuild.cs" />
+    <Compile Include="Micromind.Data\BankFacility.cs" />
+    <Compile Include="Micromind.Data\BankFacilityGroup.cs" />
+    <Compile Include="Micromind.Data\BankFacilityPayments.cs" />
+    <Compile Include="Micromind.Data\BankFacilityTransactions.cs" />
+    <Compile Include="Micromind.Data\BankReconciliation.cs" />
+    <Compile Include="Micromind.Data\Banks.cs" />
+    <Compile Include="Micromind.Data\Benefit.cs" />
+    <Compile Include="Micromind.Data\BillOfLading.cs" />
+    <Compile Include="Micromind.Data\Bin.cs" />
+    <Compile Include="Micromind.Data\BOMs.cs" />
+    <Compile Include="Micromind.Data\BouncedChecks.cs" />
+    <Compile Include="Micromind.Data\Budgeting.cs" />
+    <Compile Include="Micromind.Data\Buyer.cs" />
+    <Compile Include="Micromind.Data\Campaign.cs" />
+    <Compile Include="Micromind.Data\Candidates.cs" />
+    <Compile Include="Micromind.Data\CaseClient.cs" />
+    <Compile Include="Micromind.Data\CaseClientAddresses.cs" />
+    <Compile Include="Micromind.Data\CaseParty.cs" />
+    <Compile Include="Micromind.Data\CheckList.cs" />
+    <Compile Include="Micromind.Data\Chequebook.cs" />
+    <Compile Include="Micromind.Data\City.cs" />
+    <Compile Include="Micromind.Data\ClientAsset.cs" />
+    <Compile Include="Micromind.Data\CLToken.cs" />
+    <Compile Include="Micromind.Data\CLVouchers.cs" />
+    <Compile Include="Micromind.Data\Collateral.cs" />
+    <Compile Include="Micromind.Data\CompanyAccounts.cs" />
+    <Compile Include="Micromind.Data\CompanyAddresses.cs" />
+    <Compile Include="Micromind.Data\CompanyDivision.cs" />
+    <Compile Include="Micromind.Data\CompanyDocType.cs" />
+    <Compile Include="Micromind.Data\CompanyDocuments.cs" />
+    <Compile Include="Micromind.Data\CompanyInformations.cs" />
+    <Compile Include="Micromind.Data\CompanyOption.cs" />
+    <Compile Include="Micromind.Data\Competitor.cs" />
+    <Compile Include="Micromind.Data\Config.cs" />
+    <Compile Include="Micromind.Data\ConsignIn.cs" />
+    <Compile Include="Micromind.Data\ConsignInReturn.cs" />
+    <Compile Include="Micromind.Data\ConsignInSettlement.cs" />
+    <Compile Include="Micromind.Data\ConsignOut.cs" />
+    <Compile Include="Micromind.Data\ConsignOutReturn.cs" />
+    <Compile Include="Micromind.Data\ConsignOutSettlement.cs" />
+    <Compile Include="Micromind.Data\Contacts.cs" />
+    <Compile Include="Micromind.Data\ContainerSize.cs" />
+    <Compile Include="Micromind.Data\ContainerTrackings.cs" />
+    <Compile Include="Micromind.Data\ControlLayout.cs" />
+    <Compile Include="Micromind.Data\CostCategory.cs" />
+    <Compile Include="Micromind.Data\CostCenter.cs" />
+    <Compile Include="Micromind.Data\Country.cs" />
+    <Compile Include="Micromind.Data\CreditCards.cs" />
+    <Compile Include="Micromind.Data\CreditLimitReview.cs" />
+    <Compile Include="Micromind.Data\Currencies.cs" />
+    <Compile Include="Micromind.Data\CustomerAddresses.cs" />
+    <Compile Include="Micromind.Data\CustomerCategory.cs" />
+    <Compile Include="Micromind.Data\CustomerClass.cs" />
+    <Compile Include="Micromind.Data\CustomerGroup.cs" />
+    <Compile Include="Micromind.Data\CustomerInsurance.cs" />
+    <Compile Include="Micromind.Data\CustomerInsuranceClaim.cs" />
+    <Compile Include="Micromind.Data\Customers.cs" />
+    <Compile Include="Micromind.Data\CustomFieldGroups.cs" />
+    <Compile Include="Micromind.Data\CustomFields.cs" />
+    <Compile Include="Micromind.Data\CustomFieldSetups.cs" />
+    <Compile Include="Micromind.Data\CustomGadgets.cs" />
+    <Compile Include="Micromind.Data\CustomLists.cs" />
+    <Compile Include="Micromind.Data\CustomReports.cs" />
+    <Compile Include="Micromind.Data\CustomTypes.cs" />
+    <Compile Include="Micromind.Data\Dashboard.cs" />
+    <Compile Include="Micromind.Data\Databases.cs" />
+    <Compile Include="Micromind.Data\DataPatches.cs" />
+    <Compile Include="Micromind.Data\DataSync.cs" />
+    <Compile Include="Micromind.Data\Deduction.cs" />
+    <Compile Include="Micromind.Data\Degree.cs" />
+    <Compile Include="Micromind.Data\DeliveryNote.cs" />
+    <Compile Include="Micromind.Data\DeliveryReturn.cs" />
+    <Compile Include="Micromind.Data\Department.cs" />
+    <Compile Include="Micromind.Data\Destination.cs" />
+    <Compile Include="Micromind.Data\Dimensions.cs" />
+    <Compile Include="Micromind.Data\DisciplineActionType.cs" />
+    <Compile Include="Micromind.Data\DiscountBills.cs" />
+    <Compile Include="Micromind.Data\DiscountCheques.cs" />
+    <Compile Include="Micromind.Data\Division.cs" />
+    <Compile Include="Micromind.Data\Documents.cs" />
+    <Compile Include="Micromind.Data\Driver.cs" />
+    <Compile Include="Micromind.Data\EAEquipment.cs" />
+    <Compile Include="Micromind.Data\EmailMessage.cs" />
+    <Compile Include="Micromind.Data\EmployeeActivity.cs" />
+    <Compile Include="Micromind.Data\EmployeeActivityType.cs" />
+    <Compile Include="Micromind.Data\EmployeeAddresses.cs" />
+    <Compile Include="Micromind.Data\EmployeeAppraisal.cs" />
+    <Compile Include="Micromind.Data\EmployeeBenefitDetails.cs" />
+    <Compile Include="Micromind.Data\EmployeeDeductionDetails.cs" />
+    <Compile Include="Micromind.Data\EmployeeDependentes.cs" />
+    <Compile Include="Micromind.Data\EmployeeDocType.cs" />
+    <Compile Include="Micromind.Data\EmployeeDocuments.cs" />
+    <Compile Include="Micromind.Data\EmployeeEOSSettlement.cs" />
+    <Compile Include="Micromind.Data\EmployeeGroup.cs" />
+    <Compile Include="Micromind.Data\EmployeeJournal.cs" />
+    <Compile Include="Micromind.Data\EmployeeLeaveDetails.cs" />
+    <Compile Include="Micromind.Data\EmployeeLeaveProcess.cs" />
+    <Compile Include="Micromind.Data\EmployeeLoan.cs" />
+    <Compile Include="Micromind.Data\EmployeeLoanType.cs" />
+    <Compile Include="Micromind.Data\EmployeePayrollItemDetails.cs" />
+    <Compile Include="Micromind.Data\EmployeePerformance.cs" />
+    <Compile Include="Micromind.Data\EmployeeProvision.cs" />
+    <Compile Include="Micromind.Data\Employees.cs" />
+    <Compile Include="Micromind.Data\EmployeeSkills.cs" />
+    <Compile Include="Micromind.Data\EmployeeType.cs" />
+    <Compile Include="Micromind.Data\EntityCategory.cs" />
+    <Compile Include="Micromind.Data\EntityComments.cs" />
+    <Compile Include="Micromind.Data\EntityDoc.cs" />
+    <Compile Include="Micromind.Data\EntityFlag.cs" />
+    <Compile Include="Micromind.Data\EntityTypes.cs" />
+    <Compile Include="Micromind.Data\EOSRule.cs" />
+    <Compile Include="Micromind.Data\Equipment.cs" />
+    <Compile Include="Micromind.Data\EquipmentCategory.cs" />
+    <Compile Include="Micromind.Data\EquipmentTransfer.cs" />
+    <Compile Include="Micromind.Data\EquipmentType.cs" />
+    <Compile Include="Micromind.Data\EquipmentWorkOrder.cs" />
+    <Compile Include="Micromind.Data\Events.cs" />
+    <Compile Include="Micromind.Data\ExpenseCode.cs" />
+    <Compile Include="Micromind.Data\ExportPackingList.cs" />
+    <Compile Include="Micromind.Data\ExportPackingListStatus.cs" />
+    <Compile Include="Micromind.Data\ExportPickList.cs" />
+    <Compile Include="Micromind.Data\ExternalReport.cs" />
+    <Compile Include="Micromind.Data\FiscalYear.cs" />
+    <Compile Include="Micromind.Data\FixedAsset.cs" />
+    <Compile Include="Micromind.Data\FixedAssetBulkPurchase.cs" />
+    <Compile Include="Micromind.Data\FixedAssetClass.cs" />
+    <Compile Include="Micromind.Data\FixedAssetDep.cs" />
+    <Compile Include="Micromind.Data\FixedAssetGroup.cs" />
+    <Compile Include="Micromind.Data\FixedAssetLocation.cs" />
+    <Compile Include="Micromind.Data\FixedAssetPurchase.cs" />
+    <Compile Include="Micromind.Data\FixedAssetPurchaseOrder.cs" />
+    <Compile Include="Micromind.Data\FixedAssetSale.cs" />
+    <Compile Include="Micromind.Data\FixedAssetTransfer.cs" />
+    <Compile Include="Micromind.Data\Followup.cs" />
+    <Compile Include="Micromind.Data\FreightCharge.cs" />
+    <Compile Include="Micromind.Data\GarmentRental.cs" />
+    <Compile Include="Micromind.Data\GarmentRentalReturn.cs" />
+    <Compile Include="Micromind.Data\GenericList.cs" />
+    <Compile Include="Micromind.Data\Grade.cs" />
+    <Compile Include="Micromind.Data\GRNReturn.cs" />
+    <Compile Include="Micromind.Data\HolidayCalendar.cs" />
+    <Compile Include="Micromind.Data\HorseSex.cs" />
+    <Compile Include="Micromind.Data\HorseSummary.cs" />
+    <Compile Include="Micromind.Data\HorseType.cs" />
+    <Compile Include="Micromind.Data\INCO.cs" />
+    <Compile Include="Micromind.Data\InsuranceProvider.cs" />
+    <Compile Include="Micromind.Data\InventoryAdjustment.cs" />
+    <Compile Include="Micromind.Data\InventoryDamage.cs" />
+    <Compile Include="Micromind.Data\InventoryDismantle.cs" />
+    <Compile Include="Micromind.Data\InventoryRepacking.cs" />
+    <Compile Include="Micromind.Data\InventoryTransaction.cs" />
+    <Compile Include="Micromind.Data\InventoryTransfer.cs" />
+    <Compile Include="Micromind.Data\InventoryTransferType.cs" />
+    <Compile Include="Micromind.Data\IssuedCheques.cs" />
+    <Compile Include="Micromind.Data\ItemTransaction.cs" />
+    <Compile Include="Micromind.Data\Job.cs" />
+    <Compile Include="Micromind.Data\JobAccounts.cs" />
+    <Compile Include="Micromind.Data\JobBOMs.cs" />
+    <Compile Include="Micromind.Data\JobEstimation.cs" />
+    <Compile Include="Micromind.Data\JobExpenseIssue.cs" />
+    <Compile Include="Micromind.Data\JobInventoryIssue.cs" />
+    <Compile Include="Micromind.Data\JobInventoryReturn.cs" />
+    <Compile Include="Micromind.Data\JobInvoice.cs" />
+    <Compile Include="Micromind.Data\JobMaintenanceSchedule.cs" />
+    <Compile Include="Micromind.Data\JobMaintenanceService.cs" />
+    <Compile Include="Micromind.Data\JobManHrsBudgeting.cs" />
+    <Compile Include="Micromind.Data\JobMaterialEstimate.cs" />
+    <Compile Include="Micromind.Data\JobMaterialRequisition.cs" />
+    <Compile Include="Micromind.Data\JobTask.cs" />
+    <Compile Include="Micromind.Data\JobTaskGroup.cs" />
+    <Compile Include="Micromind.Data\JobTimesheet.cs" />
+    <Compile Include="Micromind.Data\JobType.cs" />
+    <Compile Include="Micromind.Data\Journal.cs" />
+    <Compile Include="Micromind.Data\JournalReports.cs" />
+    <Compile Include="Micromind.Data\Lawyer.cs" />
+    <Compile Include="Micromind.Data\LeadAddresses.cs" />
+    <Compile Include="Micromind.Data\Leads.cs" />
+    <Compile Include="Micromind.Data\LeadStatus.cs" />
+    <Compile Include="Micromind.Data\LeaveType.cs" />
+    <Compile Include="Micromind.Data\LegalAction.cs" />
+    <Compile Include="Micromind.Data\LegalActionStatus.cs" />
+    <Compile Include="Micromind.Data\LegalActivity.cs" />
+    <Compile Include="Micromind.Data\Letters.cs" />
+    <Compile Include="Micromind.Data\Licenses.cs" />
+    <Compile Include="Micromind.Data\LoanEntry.cs" />
+    <Compile Include="Micromind.Data\Location.cs" />
+    <Compile Include="Micromind.Data\LPOReceipt.cs" />
+    <Compile Include="Micromind.Data\MaintenanceEntry.cs" />
+    <Compile Include="Micromind.Data\MaintenanceScheduler.cs" />
+    <Compile Include="Micromind.Data\MaterialReservation.cs" />
+    <Compile Include="Micromind.Data\MatrixTemplate.cs" />
+    <Compile Include="Micromind.Data\Mobilization.cs" />
+    <Compile Include="Micromind.Data\NameValue.cs" />
+    <Compile Include="Micromind.Data\Nationality.cs" />
+    <Compile Include="Micromind.Data\Notes.cs" />
+    <Compile Include="Micromind.Data\OpeningBalanceBatch.cs" />
+    <Compile Include="Micromind.Data\OpeningBalanceLeave.cs" />
+    <Compile Include="Micromind.Data\OpeningEntryTransactions.cs" />
+    <Compile Include="Micromind.Data\Opportunity.cs" />
+    <Compile Include="Micromind.Data\OverTime.cs" />
+    <Compile Include="Micromind.Data\OverTimeEntry.cs" />
+    <Compile Include="Micromind.Data\Party.cs" />
+    <Compile Include="Micromind.Data\Patient.cs" />
+    <Compile Include="Micromind.Data\PatientDocType.cs" />
+    <Compile Include="Micromind.Data\PatientDocuments.cs" />
+    <Compile Include="Micromind.Data\PaymentMethods.cs" />
+    <Compile Include="Micromind.Data\PaymentRequest.cs" />
+    <Compile Include="Micromind.Data\PayrollItem.cs" />
+    <Compile Include="Micromind.Data\PayrollTransaction.cs" />
+    <Compile Include="Micromind.Data\PhysicalStockEntry.cs" />
+    <Compile Include="Micromind.Data\Pivot.cs" />
+    <Compile Include="Micromind.Data\PivotGroup.cs" />
+    <Compile Include="Micromind.Data\Port.cs" />
+    <Compile Include="Micromind.Data\POSBatch.cs" />
+    <Compile Include="Micromind.Data\POSCashRegister.cs" />
+    <Compile Include="Micromind.Data\POShipment.cs" />
+    <Compile Include="Micromind.Data\POShipStatus.cs" />
+    <Compile Include="Micromind.Data\POSHold.cs" />
+    <Compile Include="Micromind.Data\Position.cs" />
+    <Compile Include="Micromind.Data\POSShift.cs" />
+    <Compile Include="Micromind.Data\PriceLevels.cs" />
+    <Compile Include="Micromind.Data\PriceList.cs" />
+    <Compile Include="Micromind.Data\PrintTemplateMap.cs" />
+    <Compile Include="Micromind.Data\PrintTemplates.cs" />
+    <Compile Include="Micromind.Data\ProductAttributes.cs" />
+    <Compile Include="Micromind.Data\ProductBrands.cs" />
+    <Compile Include="Micromind.Data\ProductCategories.cs" />
+    <Compile Include="Micromind.Data\ProductClass.cs" />
+    <Compile Include="Micromind.Data\Production.cs" />
+    <Compile Include="Micromind.Data\ProductMake.cs" />
+    <Compile Include="Micromind.Data\ProductManufacturers.cs" />
+    <Compile Include="Micromind.Data\ProductModel.cs" />
+    <Compile Include="Micromind.Data\ProductParent.cs" />
+    <Compile Include="Micromind.Data\ProductPriceBulkUpdate.cs" />
+    <Compile Include="Micromind.Data\Products.cs" />
+    <Compile Include="Micromind.Data\ProductSizes.cs" />
+    <Compile Include="Micromind.Data\ProductSpecification.cs" />
+    <Compile Include="Micromind.Data\ProductStyles.cs" />
+    <Compile Include="Micromind.Data\ProductType.cs" />
+    <Compile Include="Micromind.Data\ProjectExpenseAllocation.cs" />
+    <Compile Include="Micromind.Data\ProjectSubContractPI.cs" />
+    <Compile Include="Micromind.Data\ProjectSubContractPO.cs" />
+    <Compile Include="Micromind.Data\Property.cs" />
+    <Compile Include="Micromind.Data\PropertyAgent.cs" />
+    <Compile Include="Micromind.Data\PropertyCancel.cs" />
+    <Compile Include="Micromind.Data\PropertyCategory.cs" />
+    <Compile Include="Micromind.Data\PropertyClass.cs" />
+    <Compile Include="Micromind.Data\PropertyDocType.cs" />
+    <Compile Include="Micromind.Data\PropertyDocuments.cs" />
+    <Compile Include="Micromind.Data\PropertyIncomeCode.cs" />
+    <Compile Include="Micromind.Data\PropertyRent.cs" />
+    <Compile Include="Micromind.Data\PropertyService.cs" />
+    <Compile Include="Micromind.Data\PropertyTDocType.cs" />
+    <Compile Include="Micromind.Data\PropertyTenantDocType.cs" />
+    <Compile Include="Micromind.Data\PropertyTenantDocuments.cs" />
+    <Compile Include="Micromind.Data\PropertyUnit.cs" />
+    <Compile Include="Micromind.Data\PropertyVirtualUnit.cs" />
+    <Compile Include="Micromind.Data\ProvisionType.cs" />
+    <Compile Include="Micromind.Data\PurchaseClaim.cs" />
+    <Compile Include="Micromind.Data\PurchaseCostEntry.cs" />
+    <Compile Include="Micromind.Data\PurchaseInvoice.cs" />
+    <Compile Include="Micromind.Data\PurchaseInvoiceNI.cs" />
+    <Compile Include="Micromind.Data\PurchaseOrder.cs" />
+    <Compile Include="Micromind.Data\PurchaseOrderNI.cs" />
+    <Compile Include="Micromind.Data\PurchasePrepaymentInvoice.cs" />
+    <Compile Include="Micromind.Data\PurchaseQuote.cs" />
+    <Compile Include="Micromind.Data\PurchaseReceipt.cs" />
+    <Compile Include="Micromind.Data\PurchaseReturn.cs" />
+    <Compile Include="Micromind.Data\QualityClaim.cs" />
+    <Compile Include="Micromind.Data\QualityTask.cs" />
+    <Compile Include="Micromind.Data\Rack.cs" />
+    <Compile Include="Micromind.Data\ReceivedCheques.cs" />
+    <Compile Include="Micromind.Data\RecurringInvoice.cs" />
+    <Compile Include="Micromind.Data\Register.cs" />
+    <Compile Include="Micromind.Data\ReleaseTypes.cs" />
+    <Compile Include="Micromind.Data\Religion.cs" />
+    <Compile Include="Micromind.Data\Reminders.cs" />
+    <Compile Include="Micromind.Data\RentalPosting.cs" />
+    <Compile Include="Micromind.Data\Requisition.cs" />
+    <Compile Include="Micromind.Data\RequisitionType.cs" />
+    <Compile Include="Micromind.Data\Reservation.cs" />
+    <Compile Include="Micromind.Data\ReturnedChequeReason.cs" />
+    <Compile Include="Micromind.Data\RiderSummary.cs" />
+    <Compile Include="Micromind.Data\Route.cs" />
+    <Compile Include="Micromind.Data\RouteGroup.cs" />
+    <Compile Include="Micromind.Data\Salary.cs" />
+    <Compile Include="Micromind.Data\SalarySheet.cs" />
+    <Compile Include="Micromind.Data\SalesEnquiry.cs" />
+    <Compile Include="Micromind.Data\SalesForecasting.cs" />
+    <Compile Include="Micromind.Data\SalesInvoice.cs" />
+    <Compile Include="Micromind.Data\SalesInvoiceNI.cs" />
+    <Compile Include="Micromind.Data\SalesManTarget.cs" />
+    <Compile Include="Micromind.Data\SalesOrder.cs" />
+    <Compile Include="Micromind.Data\Salesperson.cs" />
+    <Compile Include="Micromind.Data\SalespersonGroup.cs" />
+    <Compile Include="Micromind.Data\SalesPOS.cs" />
+    <Compile Include="Micromind.Data\SalesProformaInvoice.cs" />
+    <Compile Include="Micromind.Data\SalesQuote.cs" />
+    <Compile Include="Micromind.Data\SalesReceipt.cs" />
+    <Compile Include="Micromind.Data\SalesReturn.cs" />
+    <Compile Include="Micromind.Data\Schedules.cs" />
+    <Compile Include="Micromind.Data\Security.cs" />
+    <Compile Include="Micromind.Data\SendCheques.cs" />
+    <Compile Include="Micromind.Data\ServiceActivity.cs" />
+    <Compile Include="Micromind.Data\ServiceCallTrack.cs" />
+    <Compile Include="Micromind.Data\ServiceItem.cs" />
+    <Compile Include="Micromind.Data\Settings.cs" />
+    <Compile Include="Micromind.Data\ShipmentAddresses.cs" />
+    <Compile Include="Micromind.Data\ShippingMethods.cs" />
+    <Compile Include="Micromind.Data\Shortcut.cs" />
+    <Compile Include="Micromind.Data\Skill.cs" />
+    <Compile Include="Micromind.Data\SmartList.cs" />
+    <Compile Include="Micromind.Data\Sponsor.cs" />
+    <Compile Include="Micromind.Data\StandingJournal.cs" />
+    <Compile Include="Micromind.Data\StoreObject.cs" />
+    <Compile Include="Micromind.Data\Surveyor.cs" />
+    <Compile Include="Micromind.Data\SyncActivityTypes.cs" />
+    <Compile Include="Micromind.Data\SystemDocuments.cs" />
+    <Compile Include="Micromind.Data\TaskSteps.cs" />
+    <Compile Include="Micromind.Data\TaskTransaction.cs" />
+    <Compile Include="Micromind.Data\TaskTransactionStatus.cs" />
+    <Compile Include="Micromind.Data\TaskType.cs" />
+    <Compile Include="Micromind.Data\Tax.cs" />
+    <Compile Include="Micromind.Data\TaxGroup.cs" />
+    <Compile Include="Micromind.Data\TaxTransaction.cs" />
+    <Compile Include="Micromind.Data\TenancyContract.cs" />
+    <Compile Include="Micromind.Data\Terms.cs" />
+    <Compile Include="Micromind.Data\TradeLicense.cs" />
+    <Compile Include="Micromind.Data\Transactions.cs" />
+    <Compile Include="Micromind.Data\Transporter.cs" />
+    <Compile Include="Micromind.Data\TRApplication.cs" />
+    <Compile Include="Micromind.Data\UDF.cs" />
+    <Compile Include="Micromind.Data\Unit.cs" />
+    <Compile Include="Micromind.Data\User.cs" />
+    <Compile Include="Micromind.Data\UserFavorites.cs" />
+    <Compile Include="Micromind.Data\UserGroup.cs" />
+    <Compile Include="Micromind.Data\Vehicle.cs" />
+    <Compile Include="Micromind.Data\VehicleDocType.cs" />
+    <Compile Include="Micromind.Data\VehicleDocuments.cs" />
+    <Compile Include="Micromind.Data\VehicleMileageTrack.cs" />
+    <Compile Include="Micromind.Data\VendorAddresses.cs" />
+    <Compile Include="Micromind.Data\VendorClass.cs" />
+    <Compile Include="Micromind.Data\VendorGroup.cs" />
+    <Compile Include="Micromind.Data\Vendors.cs" />
+    <Compile Include="Micromind.Data\Visa.cs" />
+    <Compile Include="Micromind.Data\W3PLDelivery.cs" />
+    <Compile Include="Micromind.Data\W3PLGRN.cs" />
+    <Compile Include="Micromind.Data\W3PLInvoice.cs" />
+    <Compile Include="Micromind.Data\WebDashboard.cs" />
+    <Compile Include="Micromind.Data\WorkLocation.cs" />
+    <Compile Include="Micromind.Data\WorkOrder.cs" />
+    <Compile Include="Micromind.Data\WorkOrderInventoryIssue.cs" />
+    <Compile Include="Micromind.Data\WorkOrderInventoryReturn.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

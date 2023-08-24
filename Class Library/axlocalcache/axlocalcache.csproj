@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{D4C7814E-5255-42DC-AFFF-C5976C1EB7E2}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>7.3</LangVersion>
+    <AssemblyName>axlocalcache</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>E:\StarERP\bin\Debug\System.dll</HintPath>
+    </Reference>
+    <ProjectReference Include="..\mcommtier\mcommtier.csproj">
+      <Project>{05F00394-0CDA-4B9E-ACCB-B515F5448EF9}</Project>
+      <Name>mcommtier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\mclntlib\mclntlib.csproj">
+      <Project>{C51621C0-5EA9-48BE-B1D9-711194DFD8B2}</Project>
+      <Name>mclntlib</Name>
+    </ProjectReference>
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Micromind.DataCaches.Accounts\AccountGroups.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\AllAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\Analysis.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\AnalysisGroups.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\APAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\ARAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\AssetAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\BankAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\COGSAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\CurrentAssetsAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\ExpenseAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\IncomeAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\IncomeExpenseAccounts.cs" />
+    <Compile Include="Micromind.DataCaches.Accounts\SysDocTypes.cs" />
+    <Compile Include="Micromind.DataCaches.Bankings\Banks.cs" />
+    <Compile Include="Micromind.DataCaches.Employees\Employees.cs" />
+    <Compile Include="Micromind.DataCaches.FixedAssets\FixedAssetClass.cs" />
+    <Compile Include="Micromind.DataCaches.FixedAssets\FixedAssetGroup.cs" />
+    <Compile Include="Micromind.DataCaches.FixedAssets\FixedAssetLocation.cs" />
+    <Compile Include="Micromind.DataCaches.FixedAssets\FixedAssets.cs" />
+    <Compile Include="Micromind.DataCaches.Inventory\Brands.cs" />
+    <Compile Include="Micromind.DataCaches.Inventory\Categories.cs" />
+    <Compile Include="Micromind.DataCaches.Inventory\Items.cs" />
+    <Compile Include="Micromind.DataCaches.Inventory\Manufacturers.cs" />
+    <Compile Include="Micromind.DataCaches.Inventory\POSItems.cs" />
+    <Compile Include="Micromind.DataCaches.Libraries\Delegates.cs" />
+    <Compile Include="Micromind.DataCaches.Libraries\Global.cs" />
+    <Compile Include="Micromind.DataCaches.Others\PriceLevels.cs" />
+    <Compile Include="Micromind.DataCaches.Others\PrintTemplates.cs" />
+    <Compile Include="Micromind.DataCaches.Others\ShippingMethods.cs" />
+    <Compile Include="Micromind.DataCaches.Others\Terms.cs" />
+    <Compile Include="Micromind.DataCaches\ComboDataHelper.cs" />
+    <Compile Include="Micromind.DataCaches\CombosData.cs" />
+    <Compile Include="Micromind.DataCaches\POSData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

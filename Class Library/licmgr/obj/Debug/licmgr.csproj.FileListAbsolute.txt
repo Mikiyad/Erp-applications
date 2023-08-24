@@ -1,0 +1,37 @@
+E:\ERP All DLL\licmgr\bin\Debug\licmgr.dll
+E:\ERP All DLL\licmgr\bin\Debug\licmgr.pdb
+E:\ERP All DLL\licmgr\bin\Debug\System.Management.dll
+E:\ERP All DLL\licmgr\obj\Debug\licmgr.csprojAssemblyReference.cache
+E:\ERP All DLL\licmgr\obj\Debug\licmgr.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\licmgr\obj\Debug\licmgr.csproj.CopyComplete
+E:\ERP All DLL\licmgr\obj\Debug\licmgr.dll
+E:\ERP All DLL\licmgr\obj\Debug\licmgr.pdb
+E:\ERP All DLL\licmgr\bin\Debug\System.dll
+E:\ERP All DLL\licmgr\bin\Debug\System.Windows.Forms.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\licmgr\bin\Debug\licmgr.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\licmgr\bin\Debug\licmgr.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\licmgr\bin\Debug\System.Management.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\licmgr\obj\Debug\licmgr.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\licmgr\obj\Debug\licmgr.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\licmgr\obj\Debug\licmgr.pdb
+G:\Software code\Axolon\Class Library\licmgr\bin\Debug\licmgr.dll
+G:\Software code\Axolon\Class Library\licmgr\bin\Debug\licmgr.pdb
+G:\Software code\Axolon\Class Library\licmgr\bin\Debug\System.Management.dll
+G:\Software code\Axolon\Class Library\licmgr\obj\Debug\licmgr.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\licmgr\obj\Debug\licmgr.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\licmgr\obj\Debug\licmgr.dll
+G:\Software code\Axolon\Class Library\licmgr\obj\Debug\licmgr.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\bin\Debug\licmgr.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\bin\Debug\licmgr.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\bin\Debug\System.Management.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Debug\licmgr.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Debug\licmgr.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Debug\licmgr.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\licmgr\obj\Debug\licmgr.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\licmgr\bin\Debug\licmgr.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\licmgr\bin\Debug\licmgr.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\licmgr\bin\Debug\System.Management.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\licmgr\obj\Debug\licmgr.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\licmgr\obj\Debug\licmgr.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\licmgr\obj\Debug\licmgr.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\licmgr\obj\Debug\licmgr.pdb

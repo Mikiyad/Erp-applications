@@ -1,0 +1,100 @@
+E:\ERP All DLL\mmsdatatier\obj\Debug\mmsdatatier.csprojAssemblyReference.cache
+E:\ERP All DLL\mmsdatatier\obj\Debug\mmsdatatier.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\mmsdatatier\bin\Debug\mmsdatatier.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\mmsdatatier.pdb
+E:\ERP All DLL\mmsdatatier\bin\Debug\axseccontrol.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\mcommtier.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\mcommtier.pdb
+E:\ERP All DLL\mmsdatatier\bin\Debug\axseccontrol.pdb
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.Dac.xml
+E:\ERP All DLL\mmsdatatier\obj\Debug\mmsdatatier.csproj.CopyComplete
+E:\ERP All DLL\mmsdatatier\obj\Debug\mmsdatatier.dll
+E:\ERP All DLL\mmsdatatier\obj\Debug\mmsdatatier.pdb
+E:\ERP All DLL\mmsdatatier\bin\Debug\Microsoft.SqlServer.Dac.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\System.Data.DataSetExtensions.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\System.dll
+E:\ERP All DLL\mmsdatatier\bin\Debug\System.Windows.Forms.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\mmsdatatier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\mmsdatatier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\mcommtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\mcommtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\bin\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.pdb
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\mmsdatatier.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\mmsdatatier.pdb
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\mcommtier.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\mcommtier.pdb
+G:\Software code\Axolon\Class Library\mmsdatatier\bin\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.dll
+G:\Software code\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\mmsdatatier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\mmsdatatier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\obj\Debug\mmsdatatier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\bin\Debug\mmsdatatier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\bin\Debug\mmsdatatier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\bin\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\bin\Debug\mcommtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\bin\Debug\mcommtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\bin\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\obj\Debug\mmsdatatier.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\obj\Debug\mmsdatatier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mmsdatatier\obj\Debug\mmsdatatier.pdb

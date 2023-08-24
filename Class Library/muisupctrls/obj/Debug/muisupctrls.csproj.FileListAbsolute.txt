@@ -1,0 +1,1134 @@
+E:\ERP All DLL\muisupctrls\obj\Debug\muisupctrls.csprojAssemblyReference.cache
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabControl.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabPage.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.GUIControls.Others.Statistics.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.Properties.Resources.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.BAPanel.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.DataGridList.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.DataGridTreeList.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.DialogBoxBaseForm.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.Line.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.MMLabel.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.NumberTextBox.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.RecordInfoDialog.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.SelectCustomDate.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanel.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanelContainer.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.textBoxNumber.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.TextControl.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.TreeGridList.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\Micromind.UISupport.WordSuggestionsForm.resources
+E:\ERP All DLL\muisupctrls\obj\Debug\muisupctrls.csproj.GenerateResource.cache
+E:\ERP All DLL\muisupctrls\obj\Debug\muisupctrls.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\muisupctrls\bin\Debug\muisupctrls.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\muisupctrls.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\mclntlib.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\mcommtier.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\System.Design.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\axseccontrol.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\licmgr.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\mutilclass.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\fcdtier.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.CodeParser.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\mmsdatatier.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Images.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.Dac.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\mclntlib.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\mcommtier.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\axseccontrol.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\licmgr.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\mutilclass.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\fcdtier.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\mmsdatatier.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\Microsoft.SqlServer.Dac.xml
+E:\ERP All DLL\muisupctrls\obj\Debug\muisupctrls.csproj.CopyComplete
+E:\ERP All DLL\muisupctrls\obj\Debug\muisupctrls.dll
+E:\ERP All DLL\muisupctrls\obj\Debug\muisupctrls.pdb
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Data.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Infragistics4.Shared.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\Infragistics4.Win.v18.2.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\System.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\System.Drawing.dll
+E:\ERP All DLL\muisupctrls\bin\Debug\System.Windows.Forms.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\muisupctrls.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\muisupctrls.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mclntlib.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mcommtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\System.Design.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\licmgr.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mutilclass.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\fcdtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mmsdatatier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dac.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mclntlib.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mcommtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\licmgr.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mutilclass.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\fcdtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\mmsdatatier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabControl.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabPage.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.GUIControls.Others.Statistics.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.BAPanel.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridList.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridTreeList.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DialogBoxBaseForm.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Line.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.MMLabel.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.NumberTextBox.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.RecordInfoDialog.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SelectCustomDate.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanel.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanelContainer.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.textBoxNumber.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TextControl.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TreeGridList.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.WordSuggestionsForm.resources
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\muisupctrls.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\muisupctrls.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mclntlib.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mcommtier.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\System.Design.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\licmgr.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mutilclass.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\fcdtier.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.CodeParser.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mmsdatatier.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Images.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dac.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mclntlib.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mcommtier.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\licmgr.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mutilclass.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\fcdtier.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\mmsdatatier.pdb
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabControl.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabPage.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.GUIControls.Others.Statistics.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Properties.Resources.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.BAPanel.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridList.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridTreeList.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DialogBoxBaseForm.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Line.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.MMLabel.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.NumberTextBox.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.RecordInfoDialog.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SelectCustomDate.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanel.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanelContainer.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.textBoxNumber.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TextControl.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TreeGridList.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.WordSuggestionsForm.resources
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.GenerateResource.cache
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.dll
+G:\Software code\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\muisupctrls.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\muisupctrls.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v19.2.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v19.2.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mclntlib.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\System.Design.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\licmgr.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\fcdtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mmsdatatier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dac.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Images.v21.1.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mclntlib.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v19.2.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v19.2.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v21.1.UI.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\licmgr.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mutilclass.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\fcdtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\mmsdatatier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabControl.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabPage.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.GUIControls.Others.Statistics.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Properties.Resources.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.BAPanel.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridList.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridTreeList.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DialogBoxBaseForm.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Line.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.MMLabel.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.NumberTextBox.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.RecordInfoDialog.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SelectCustomDate.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanel.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanelContainer.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.textBoxNumber.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TextControl.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TreeGridList.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.WordSuggestionsForm.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.GenerateResource.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\muisupctrls\obj\Debug\muisupctrls.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\muisupctrls.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\muisupctrls.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v19.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v19.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mclntlib.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\System.Design.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\licmgr.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\fcdtier.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mmsdatatier.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.CodeParser.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Images.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dac.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mclntlib.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Shared.v19.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.v19.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\licmgr.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mutilclass.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\fcdtier.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\mmsdatatier.pdb
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\muisupctrls.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabControl.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabPage.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.GUIControls.Others.Statistics.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Properties.Resources.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.BAPanel.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridList.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridTreeList.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DialogBoxBaseForm.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Line.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.MMLabel.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.NumberTextBox.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.RecordInfoDialog.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SelectCustomDate.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanel.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanelContainer.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.textBoxNumber.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TextControl.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TreeGridList.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.WordSuggestionsForm.resources
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.GenerateResource.cache
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\muisupctrls.dll
+D:\work\systems\erp_axolon\Axolon1\Class Library\muisupctrls\obj\Debug\muisupctrls.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\muisupctrls.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\muisupctrls.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mclntlib.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mcommtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\System.Design.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\licmgr.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mutilclass.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\fcdtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mmsdatatier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dac.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mclntlib.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mcommtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\licmgr.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mutilclass.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\fcdtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\mmsdatatier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabControl.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Controls.TabPage.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.GUIControls.Others.Statistics.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Properties.Resources.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.BAPanel.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridList.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DataGridTreeList.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.DialogBoxBaseForm.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.Line.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.MMLabel.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.NumberTextBox.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.RecordInfoDialog.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SelectCustomDate.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanel.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.SlidingPanelContainer.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.textBoxNumber.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TextControl.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.TreeGridList.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\Micromind.UISupport.WordSuggestionsForm.resources
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.GenerateResource.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\muisupctrls.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\muisupctrls.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\muisupctrls\obj\Debug\muisupctrls.pdb

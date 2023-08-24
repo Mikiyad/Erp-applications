@@ -1,0 +1,56 @@
+E:\ERP All DLL\mutilclass\obj\Debug\mutilclass.csprojAssemblyReference.cache
+E:\ERP All DLL\mutilclass\obj\Debug\mutilclass.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\mutilclass\bin\Debug\mutilclass.dll
+E:\ERP All DLL\mutilclass\bin\Debug\mutilclass.pdb
+E:\ERP All DLL\mutilclass\bin\Debug\mcommtier.dll
+E:\ERP All DLL\mutilclass\bin\Debug\axseccontrol.dll
+E:\ERP All DLL\mutilclass\bin\Debug\mcommtier.pdb
+E:\ERP All DLL\mutilclass\bin\Debug\axseccontrol.pdb
+E:\ERP All DLL\mutilclass\obj\Debug\mutilclass.csproj.CopyComplete
+E:\ERP All DLL\mutilclass\obj\Debug\mutilclass.dll
+E:\ERP All DLL\mutilclass\obj\Debug\mutilclass.pdb
+E:\ERP All DLL\mutilclass\bin\Debug\System.dll
+E:\ERP All DLL\mutilclass\bin\Debug\System.Windows.Forms.dll
+E:\ERP All DLL\mutilclass\bin\Debug\System.Xml.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\bin\Debug\mutilclass.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\bin\Debug\mutilclass.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\bin\Debug\mcommtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\bin\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\bin\Debug\mcommtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\bin\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.pdb
+G:\Software code\Axolon\Class Library\mutilclass\bin\Debug\mutilclass.dll
+G:\Software code\Axolon\Class Library\mutilclass\bin\Debug\mutilclass.pdb
+G:\Software code\Axolon\Class Library\mutilclass\bin\Debug\mcommtier.dll
+G:\Software code\Axolon\Class Library\mutilclass\bin\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\mutilclass\bin\Debug\mcommtier.pdb
+G:\Software code\Axolon\Class Library\mutilclass\bin\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.dll
+G:\Software code\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Debug\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Debug\mutilclass.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\mutilclass\obj\Debug\mutilclass.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\bin\Debug\mutilclass.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\bin\Debug\mutilclass.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\bin\Debug\mcommtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\bin\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\bin\Debug\mcommtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\bin\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\obj\Debug\mutilclass.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\obj\Debug\mutilclass.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\obj\Debug\mutilclass.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\obj\Debug\mutilclass.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\mutilclass\obj\Debug\mutilclass.pdb

@@ -1,0 +1,8 @@
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\bin\Release\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\bin\Release\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\bin\Release\System.Management.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Release\axseccontrol.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Release\axseccontrol.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Release\axseccontrol.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Release\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Release\axseccontrol.pdb

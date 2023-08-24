@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{BB6DDB44-9AB9-4E92-8EA6-E2B237B5CDEA}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>7.3</LangVersion>
+    <AssemblyName>mutilclass</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>E:\StarERP\bin\Debug\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>E:\StarERP\bin\Debug\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>E:\StarERP\bin\Debug\System.Xml.dll</HintPath>
+    </Reference>
+    <ProjectReference Include="..\mcommtier\mcommtier.csproj">
+      <Project>{05F00394-0CDA-4B9E-ACCB-B515F5448EF9}</Project>
+      <Name>mcommtier</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Micromind.Utilities.AppUpdater\AutoAppUpdater.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.Utilities.AppUpdater\AutoUpdateConfig.cs" />
+    <Compile Include="Micromind.Utilities.AppUpdater\TrustAllCertificatePolicy.cs" />
+    <Compile Include="Micromind.Utilities.BZip2\BZip2.cs" />
+    <Compile Include="Micromind.Utilities.BZip2\BZip2Constants.cs" />
+    <Compile Include="Micromind.Utilities.BZip2\BZip2InputStream.cs" />
+    <Compile Include="Micromind.Utilities.BZip2\BZip2OutputStream.cs" />
+    <Compile Include="Micromind.Utilities.Checksums\Adler32.cs" />
+    <Compile Include="Micromind.Utilities.Checksums\Crc32.cs" />
+    <Compile Include="Micromind.Utilities.Checksums\IChecksum.cs" />
+    <Compile Include="Micromind.Utilities.Checksums\StrangeCRC.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\BytesTransferredEventArgs.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\BytesTransferredHandler.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPActiveDataSocket.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPClient.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPConnectMode.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPControlSocket.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPDataSocket.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPException.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPFile.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPFileFactory.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPFileParser.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPMessageEventArgs.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPMessageHandler.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPPassiveDataSocket.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPReply.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\FTPTransferType.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\UnixFileParser.cs" />
+    <Compile Include="Micromind.Utilities.FTP.Ftp\WindowsFileParser.cs" />
+    <Compile Include="Micromind.Utilities.FTP\BaseSocket.cs" />
+    <Compile Include="Micromind.Utilities.FTP\StandardSocket.cs" />
+    <Compile Include="Micromind.Utilities.HTTP.Spider\DocumentWorker.cs" />
+    <Compile Include="Micromind.Utilities.HTTP.Spider\Done.cs" />
+    <Compile Include="Micromind.Utilities.HTTP.Spider\Spider.cs" />
+    <Compile Include="Micromind.Utilities.HTTP\Attribute.cs" />
+    <Compile Include="Micromind.Utilities.HTTP\AttributeList.cs" />
+    <Compile Include="Micromind.Utilities.HTTP\HTMLParserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.Utilities.HTTP\HTTPClient.cs" />
+    <Compile Include="Micromind.Utilities.HTTP\Parse.cs" />
+    <Compile Include="Micromind.Utilities.HTTP\ParseHTML.cs" />
+    <Compile Include="Micromind.Utilities.MAPI\MailAttach.cs" />
+    <Compile Include="Micromind.Utilities.MAPI\MailEnvelop.cs" />
+    <Compile Include="Micromind.Utilities.MAPI\Mapi.cs" />
+    <Compile Include="Micromind.Utilities.MAPI\MapiFileDesc.cs" />
+    <Compile Include="Micromind.Utilities.MAPI\MapiMessage.cs" />
+    <Compile Include="Micromind.Utilities.MAPI\MapiRecipDesc.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression.Streams\DeflaterOutputStream.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression.Streams\InflaterInputStream.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression.Streams\OutputWindow.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression.Streams\StreamManipulator.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\Deflater.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\DeflaterConstants.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\DeflaterEngine.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\DeflaterHuffman.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\DeflaterPending.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\DeflateStrategy.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\Inflater.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\InflaterDynHeader.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\InflaterHuffmanTree.cs" />
+    <Compile Include="Micromind.Utilities.Zip.Compression\PendingBuffer.cs" />
+    <Compile Include="Micromind.Utilities.Zip\CompressionMethod.cs" />
+    <Compile Include="Micromind.Utilities.Zip\ZipConstants.cs" />
+    <Compile Include="Micromind.Utilities.Zip\ZipEntry.cs" />
+    <Compile Include="Micromind.Utilities.Zip\ZipFile.cs" />
+    <Compile Include="Micromind.Utilities.Zip\ZipInputStream.cs" />
+    <Compile Include="Micromind.Utilities.Zip\ZipOutputStream.cs" />
+    <Compile Include="Micromind.Utilities\FileUtility.cs" />
+    <Compile Include="Micromind.Utilities\IConfirmForm.cs" />
+    <Compile Include="Micromind.Utilities\IStatusForm.cs" />
+    <Compile Include="Micromind.Utilities\ZipException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

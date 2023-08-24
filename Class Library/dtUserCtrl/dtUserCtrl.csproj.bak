@@ -1,0 +1,1334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{48C8D7C3-A5E6-4718-AD06-8ECA6EFBE76C}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>7.3</LangVersion>
+    <AssemblyName>dtUserCtrl</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics4.Documents.Core.v19.2, Version=19.2.20192.476, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\2019.2\Windows Forms\CLR4.0\Bin\Infragistics4.Documents.Core.v19.2.dll</HintPath>
+      <Name>Infragistics4.Documents.Core.v19.2</Name>
+    </Reference>
+    <Reference Include="Infragistics4.Shared.v19.2, Version=19.2.20192.476, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\2019.2\Windows Forms\CLR4.0\Bin\Infragistics4.Shared.v19.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Documents.Excel.v19.2, Version=19.2.20192.476, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\2019.2\Windows Forms\CLR4.0\Bin\Infragistics4.Documents.Excel.v19.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.Misc.v19.2, Version=19.2.20192.476, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\2019.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.Misc.v19.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinGrid.v19.2, Version=19.2.20192.476, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\2019.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinGrid.v19.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.v19.2, Version=19.2.20192.476, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\2019.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.v19.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinEditors.v19.2, Version=19.2.20192.476, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\2019.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinEditors.v19.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v21.1.Core">
+      
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms">
+      <HintPath>E:\StarERP\bin\Debug\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>E:\StarERP\bin\Debug\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>E:\StarERP\bin\Debug\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v21.1.Win">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v21.1.Core">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraWizard.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.Data.Desktop.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.Utils.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v21.1">
+      
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>E:\StarERP\bin\Debug\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v21.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.Data.v21.1">
+      
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v21.1.UI">
+      
+    </Reference>
+    <ProjectReference Include="..\muisupctrls\muisupctrls.csproj">
+      <Project>{C55C6FE9-58DB-42BF-902E-0A0E3E249F55}</Project>
+      <Name>muisupctrls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\mcommtier\mcommtier.csproj">
+      <Project>{05F00394-0CDA-4B9E-ACCB-B515F5448EF9}</Project>
+      <Name>mcommtier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\mclntlib\mclntlib.csproj">
+      <Project>{C51621C0-5EA9-48BE-B1D9-711194DFD8B2}</Project>
+      <Name>mclntlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\axlocalcache\axlocalcache.csproj">
+      <Project>{D4C7814E-5255-42DC-AFFF-C5976C1EB7E2}</Project>
+      <Name>axlocalcache</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Micromind.ClientUI.WindowsForms.DataEntries\EnterNameDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.ClientUI.WindowsForms.DataEntries\SelectDashboardTemplateDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.DataGrid.Library\GrildColumns.cs" />
+    <Compile Include="Micromind.DataControls.FlatDashboard\AddDashboardGadgetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.FlatDashboard\CustomizeDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.FlatDashboard\DashboardLayout.cs" />
+    <Compile Include="Micromind.DataControls.FlatDashboard\FlatDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.FlatDashboard\GadgetContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.FlatDashboard\GadgetIcon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.FormDesigner\CategoryItem.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\DescriberObject.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\DesignerLib.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\ItemDragEventArgs.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\ItemDragEventHandler.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\PointerItem.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\PropertyGridSite.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\ReadOnlyPropertyDescriptor.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\TBItem.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\ToolboxItem.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\ToolboxItemWithImage.cs" />
+    <Compile Include="Micromind.DataControls.FormDesigner\ToolboxList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.Libraries\AccountComboItem.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\ComboData.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\ComboTag.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\ControlConstants.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\DataMessages.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\InvoiceComboItem.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\JobComboData.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\PartnerComboData.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\PayeeComboData.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\ProductComboData.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\SearchOperator.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\StockData.cs" />
+    <Compile Include="Micromind.DataControls.Libraries\StockDataCreator.cs" />
+    <Compile Include="Micromind.DataControls.MMSDataGrid\ButtonTextBoxControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.MMSDataGrid\CellButtonEditor.cs" />
+    <Compile Include="Micromind.DataControls.MMSDataGrid\POSGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.MMSDataGrid\POSGridButtons.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.MMSDataGrid\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.OtherControls\ApprovalPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.OtherControls\DocStatusLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.OtherControls\ReportFilterControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.Properties\Resources.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder.Controls\DataGridEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.QueryBuilder.Forms\frmAddColumn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.QueryBuilder.Forms\frmBaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.QueryBuilder.Forms\frmFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.QueryBuilder\ArrayListEx.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\Defaults.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\Functions.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\Parser.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\QueryEditor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.QueryBuilder\RichTextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls.QueryBuilder\RtfHtmlBuilder.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\Serializable.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\SQL.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\SqlTable.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\StackEx.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\TableCol.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\TableDef.cs" />
+    <Compile Include="Micromind.DataControls.QueryBuilder\XML.cs" />
+    <Compile Include="Micromind.DataControls\AccountGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AccountSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AccountTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ActivityComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ActivityTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AdjustmentTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AgentComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AllAccountsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AllLocationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AmountOrPercentComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AnalysisComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AnalysisGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AnalysisGroupSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AnalysisNonAccountComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AnalysisNonAccountSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AnalysisSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\APAccountsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ApprovalCardTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ApprovalTransactionTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ARAccountsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\AreaComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ArrivalReportTemplateComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankAccountsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankAccountSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankFacilityComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankFacilityGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankFacilityStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankFacilityTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BankSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BenefitComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BillingUnitComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BinComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BOMComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BuyerComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\BuyerSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CampaignComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CampaignStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CampaignTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CardTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CaseClientComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CaseClientSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CasePartyComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ChartSerie.cs" />
+    <Compile Include="Micromind.DataControls\ChartTypesCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ChequebookComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ChequebookStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CityComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ClientAssetComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ComboBoxCell.cs" />
+    <Compile Include="Micromind.DataControls\ComboBoxColumn.cs" />
+    <Compile Include="Micromind.DataControls\ComboBoxEditingControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ComboEvents.cs" />
+    <Compile Include="Micromind.DataControls\ComboQuickAddData.cs" />
+    <Compile Include="Micromind.DataControls\ComboSearchDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ComboSearchDialogNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CompanyDivisionComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CompanyDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CompetitorComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ConditionColumn.cs" />
+    <Compile Include="Micromind.DataControls\ConsignInComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ConsignInSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ContactsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ContainerSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ContainerSizeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ContainerStstusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ControlResizer.cs" />
+    <Compile Include="Micromind.DataControls\ControlTestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CostCategoryComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CostCategorySelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CostCenterComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CostTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CountryComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CountrySelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CreditInsuranceStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CRMRelatedSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CRMRelatedTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CurrencyComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CurrencySelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\Customer1Selector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomerAddressComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomerClassComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomerGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomerGroupSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomerLeadsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomerSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\customersFlatComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomGadgetChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomGadgetGauge.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomGadgetList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomGadgetNumeric.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomizeDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomizeLinkGadgetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomizePanelItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\CustomListComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DashboardLayout.cs" />
+    <Compile Include="Micromind.DataControls\DashboardNavBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DatabaseComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DataControlTranslator.cs" />
+    <Compile Include="Micromind.DataControls\DataEntryGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DateBetween.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DateControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DatePeriods.cs" />
+    <Compile Include="Micromind.DataControls\DateRangeStruct.cs" />
+    <Compile Include="Micromind.DataControls\DaysComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DeductionComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DegreeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DepartmentComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DepFrequencyComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DepMethodComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DestinationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DimensionComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DisciplineActionTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DivisionComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DivisionSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\DriverComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EAEquipmentComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EditCommentDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeActivityTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeContractComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeFilterComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeLoanAllComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeLoanComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeLoanTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeePaymentMethodComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeProvisionTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeSelector2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EmployeeTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EntityCategoryComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EntityCommentsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EOSRuleComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EquipmentCategoryComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EquipmentComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EquipmentSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EquipmentTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EventSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\EventTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ExpenseCodeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ExpenseCodeTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ExternalReportCategoryComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FavoriteBankAccountsGadget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FeeTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FiscalYearComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FixedAssetClassComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FixedAssetGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FixedAssetLocationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FixedAssetsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FixedAssetSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\flatComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\flatDatePicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\FormManager.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetCardShortcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetCategories.cs" />
+    <Compile Include="Micromind.DataControls\GadgetDailySalesChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetDateRangeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetFilterOptions.cs" />
+    <Compile Include="Micromind.DataControls\GadgetMonthlySalesChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetPDCIssuedList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetPDCOnhandList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetReorderItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetReportShortcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetsHelper.cs" />
+    <Compile Include="Micromind.DataControls\GadgetStyles.cs" />
+    <Compile Include="Micromind.DataControls\GadgetTopCustomersChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetTopInvoicesChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetTopProductsChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetTopSalespersonChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetTransactionShortcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GadgetTypes.cs" />
+    <Compile Include="Micromind.DataControls\GenderComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GenericListComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GradeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GridImportFromExcelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GroupBySelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\GroupLayout.cs" />
+    <Compile Include="Micromind.DataControls\HelperLib.cs" />
+    <Compile Include="Micromind.DataControls\HolidayCalendarComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\HorseComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\HorseSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\HorseSexComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\HorseTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ICustomGadget.cs" />
+    <Compile Include="Micromind.DataControls\ICustomGadgetChart.cs" />
+    <Compile Include="Micromind.DataControls\IGadget.cs" />
+    <Compile Include="Micromind.DataControls\ILinkGadget.cs" />
+    <Compile Include="Micromind.DataControls\INCOComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\InsuranceProviderComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\InventoryTransferTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\InvoiceEntryGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\InvoiceLineTypes.cs" />
+    <Compile Include="Micromind.DataControls\InvoiceRowTypeCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ItemBrandSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ItemClassComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ItemCostingComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ItemTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobBOMComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobFeeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobTaskComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobTaskGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JobTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JVEntryGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\JVLineTypes.cs" />
+    <Compile Include="Micromind.DataControls\JVRowTypeCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LanguageComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LawyerComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LawyerSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeadAddressComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeadOnlySelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeadSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\leadsFlatComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeadSourceComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeadSourceSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeadStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeaveSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LeaveTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LegalActionStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\Line.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\Link.cs" />
+    <Compile Include="Micromind.DataControls\LinksCollection.cs" />
+    <Compile Include="Micromind.DataControls\LocationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\LocationSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MaritalStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MatrixProductSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MatrixTemplateComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MedicalInsuranceProviderComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MMSDataEnteryGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MMSListGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MMSNoteGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MMSReportGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MonthComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\MultiColumnComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\NationalityComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\NavBarLayout.cs" />
+    <Compile Include="Micromind.DataControls\Note.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\NoteTitles.cs" />
+    <Compile Include="Micromind.DataControls\NoteViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\Notifier.cs" />
+    <Compile Include="Micromind.DataControls\OpenPOComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\OpportunityComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\OpportunityStageComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\OptionsAllowComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\OverTimeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PackageComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PatientDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PayeesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PayeeSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PayeeTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\paymentMethodsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PaymentMethodTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PaymentTermComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PaymentTermTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PayrollItemComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PivotGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PortComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\POSCashRegisterComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\POSEntryGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\POSExpenseComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PositionComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\POStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PriceLevelComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PrintTemplateMapCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PrintTemplateSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductBrandComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductBrandsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductCategoryComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductCategorySelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductClassSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductMakeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductManufacturerComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductNISelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductParentComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductParentSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductPhotoViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductsPartsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductSpecificationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductStyleComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductUnitComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ProductUnitDetailComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyAgentComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyAgentSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyClassComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyIncomeCodeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyIncomeCodeTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertySelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyTenantDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyUnitComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\PropertyUnitSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\QualificationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\RackComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ReceivedChequeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\RegisterComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ReleaseTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ReligionComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ReminderNotifierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ReportFilterClasses.cs" />
+    <Compile Include="Micromind.DataControls\ReportFilterGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\RequisitionTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ReturnedChequeReasonComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\RiderComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\RouteComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\RouteGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SalespersonComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SalespersonGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SalespersonSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ScanTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SelectDocumentDialogByRange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SelectionStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SelectPrintTemplateDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SelectTransactionDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ServiceActivityComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ServiceItemComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ServiceProviderComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ServiceSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SetCurrencyRateDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SetReminderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\ShippingMethodsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SingleColumnComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SingleColumnDataComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SizeableLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SkillComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SmartListCategoryComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SponsorComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SubSmartListComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SurveyorComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SysDocComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\SysDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TaskStepsComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TaskTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TaxComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TaxGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TaxMethodComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TemplateMapCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TenancyContractStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TenantClassComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TenantDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TenantSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TransactionTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\TransporterComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UDFDataTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UDFEntryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UDFListTypesComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UDFTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UnitComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UserComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\UserGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VehicleComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VehicleDocTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VehicleSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VendorClassComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VendorGroupComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VendorGroupSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VendorSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\vendorsFlatComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\vendorsFlatComboBoxOld.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VisaStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VisaThroughStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\VisaTypeComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\W3PLProductSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\WorkLocationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\WorkLocationSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\WorkOrderStatusComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\XItemLocationComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Micromind.DataControls\YearComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Micromind.ClientUI.WindowsForms.DataEntries\EnterNameDialog.resx" />
+    <EmbeddedResource Include="Micromind.ClientUI.WindowsForms.DataEntries\SelectDashboardTemplateDialog.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.FlatDashboard\AddDashboardGadgetForm.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.FlatDashboard\CustomizeDashboardForm.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.FlatDashboard\GadgetContainer.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.FormDesigner\FormDesignerStudio.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.FormDesigner\ToolboxControl.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.MMSDataGrid\UserControl1.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.Properties\Resources.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.QueryBuilder.Forms\frmAddColumn.resx" />
+    <EmbeddedResource Include="Micromind.DataControls.QueryBuilder.Forms\frmFind.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\CreditInsuranceStatusComboBox.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\CRMRelatedTypesComboBox.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\GadgetCardShortcuts.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\GadgetReportShortcuts.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\GridImportFromExcelForm.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\MMSListGrid.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\MMSReportGrid.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\Note.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\NoteViewForm.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\ReportFilterGrid.resx" />
+    <EmbeddedResource Include="Micromind.DataControls\SetReminderForm.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

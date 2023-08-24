@@ -1,0 +1,2 @@
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\obj\Release\mmsdatatier.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mmsdatatier\obj\Release\mmsdatatier.csproj.CoreCompileInputs.cache

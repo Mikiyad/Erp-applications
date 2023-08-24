@@ -1,0 +1,121 @@
+E:\ERP All DLL\fcdtier\obj\Debug\fcdtier.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\fcdtier\obj\Debug\fcdtier.csprojAssemblyReference.cache
+E:\ERP All DLL\fcdtier\bin\Debug\fcdtier.dll
+E:\ERP All DLL\fcdtier\bin\Debug\fcdtier.pdb
+E:\ERP All DLL\fcdtier\bin\Debug\axseccontrol.dll
+E:\ERP All DLL\fcdtier\bin\Debug\mcommtier.dll
+E:\ERP All DLL\fcdtier\bin\Debug\mmsdatatier.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.Dac.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ERP All DLL\fcdtier\bin\Debug\mcommtier.pdb
+E:\ERP All DLL\fcdtier\bin\Debug\mmsdatatier.pdb
+E:\ERP All DLL\fcdtier\bin\Debug\axseccontrol.pdb
+E:\ERP All DLL\fcdtier\bin\Debug\Microsoft.SqlServer.Dac.xml
+E:\ERP All DLL\fcdtier\obj\Debug\fcdtier.csproj.CopyComplete
+E:\ERP All DLL\fcdtier\obj\Debug\fcdtier.dll
+E:\ERP All DLL\fcdtier\obj\Debug\fcdtier.pdb
+E:\ERP All DLL\fcdtier\bin\Debug\System.dll
+E:\ERP All DLL\fcdtier\bin\Debug\System.Drawing.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\fcdtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\fcdtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\mcommtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\mmsdatatier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dac.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\mcommtier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\mmsdatatier.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\bin\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.pdb
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\fcdtier.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\fcdtier.pdb
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\mcommtier.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\mmsdatatier.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dac.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\mcommtier.pdb
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\mmsdatatier.pdb
+G:\Software code\Axolon\Class Library\fcdtier\bin\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.dll
+G:\Software code\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\fcdtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\fcdtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\mcommtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\mmsdatatier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dac.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\mcommtier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\mmsdatatier.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\fcdtier\obj\Debug\fcdtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\fcdtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\fcdtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\mcommtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\mmsdatatier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dac.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\mcommtier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\mmsdatatier.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\bin\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\obj\Debug\fcdtier.csproj.AssemblyReference.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\obj\Debug\fcdtier.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\obj\Debug\fcdtier.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\obj\Debug\fcdtier.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\fcdtier\obj\Debug\fcdtier.pdb

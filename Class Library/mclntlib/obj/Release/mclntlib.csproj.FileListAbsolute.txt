@@ -1,0 +1,4 @@
+D:\work\systems\erp_axolon\Axolon\Class Library\mclntlib\obj\Release\mclntlib.csprojAssemblyReference.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mclntlib\obj\Release\Micromind.ClientLibraries.ConnectionLostDialog.resources
+D:\work\systems\erp_axolon\Axolon\Class Library\mclntlib\obj\Release\mclntlib.csproj.GenerateResource.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\mclntlib\obj\Release\mclntlib.csproj.CoreCompileInputs.cache

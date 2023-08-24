@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{902B1689-51DB-441D-BED2-84F2B18D96FD}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>7.3</LangVersion>
+    <AssemblyName>fcdtier</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing">
+      <HintPath>E:\StarERP\bin\Debug\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>E:\StarERP\bin\Debug\System.dll</HintPath>
+    </Reference>
+    <ProjectReference Include="..\mcommtier\mcommtier.csproj">
+      <Project>{05F00394-0CDA-4B9E-ACCB-B515F5448EF9}</Project>
+      <Name>mcommtier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\mmsdatatier\mmsdatatier.csproj">
+      <Project>{C49C0CFB-A248-434D-B8C9-365E8306C6CB}</Project>
+      <Name>mmsdatatier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\axseccontrol\axseccontrol.csproj">
+      <Project>{CBF39E9F-4358-4648-BE5F-5D531E4B7BC7}</Project>
+      <Name>axseccontrol</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Micromind.Facade.Factories\CompanySystem.cs" />
+    <Compile Include="Micromind.Facade.Factories\ConfigData.cs" />
+    <Compile Include="Micromind.Facade.Factories\UserManagerSystem.cs" />
+    <Compile Include="Micromind.Facade.Factories\WebCompanySystem.cs" />
+    <Compile Include="Micromind.Facade.WS\LicenseSystem.cs" />
+    <Compile Include="Micromind.Facade\AccountAnalysisSystem.cs" />
+    <Compile Include="Micromind.Facade\AccountGroupsSystem.cs" />
+    <Compile Include="Micromind.Facade\ActivityLogSystem.cs" />
+    <Compile Include="Micromind.Facade\ActivitySystem.cs" />
+    <Compile Include="Micromind.Facade\AdjustmentTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\AnalysisGroupsSystem.cs" />
+    <Compile Include="Micromind.Facade\AnalysisSystem.cs" />
+    <Compile Include="Micromind.Facade\APJournalSystem.cs" />
+    <Compile Include="Micromind.Facade\ApprovalSystem.cs" />
+    <Compile Include="Micromind.Facade\AreaSystem.cs" />
+    <Compile Include="Micromind.Facade\ARJournalSystem.cs" />
+    <Compile Include="Micromind.Facade\ArrivalReportSystem.cs" />
+    <Compile Include="Micromind.Facade\ArrivalReportTemplateSystem.cs" />
+    <Compile Include="Micromind.Facade\AssemblyBuildSystem.cs" />
+    <Compile Include="Micromind.Facade\BankFacilityGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\BankFacilityPaymentSystem.cs" />
+    <Compile Include="Micromind.Facade\BankFacilitySystem.cs" />
+    <Compile Include="Micromind.Facade\BankFacilityTransactionSystem.cs" />
+    <Compile Include="Micromind.Facade\BankReconciliationSystem.cs" />
+    <Compile Include="Micromind.Facade\BankSystem.cs" />
+    <Compile Include="Micromind.Facade\BenefitSystem.cs" />
+    <Compile Include="Micromind.Facade\BillOfLadingSystem.cs" />
+    <Compile Include="Micromind.Facade\BinSystem.cs" />
+    <Compile Include="Micromind.Facade\BOMSystem.cs" />
+    <Compile Include="Micromind.Facade\BouncedCheckSystem.cs" />
+    <Compile Include="Micromind.Facade\BudgetingSystem.cs" />
+    <Compile Include="Micromind.Facade\BuyerSystem.cs" />
+    <Compile Include="Micromind.Facade\CampaignSystem.cs" />
+    <Compile Include="Micromind.Facade\CandidateSystem.cs" />
+    <Compile Include="Micromind.Facade\CaseClientSystem.cs" />
+    <Compile Include="Micromind.Facade\CasePartySystem.cs" />
+    <Compile Include="Micromind.Facade\CheckListSystem.cs" />
+    <Compile Include="Micromind.Facade\ChequebookSystem.cs" />
+    <Compile Include="Micromind.Facade\CitySystem.cs" />
+    <Compile Include="Micromind.Facade\ClientAssetSystem.cs" />
+    <Compile Include="Micromind.Facade\CLTokenSystem.cs" />
+    <Compile Include="Micromind.Facade\CLVoucherSystem.cs" />
+    <Compile Include="Micromind.Facade\CollateralSystem.cs" />
+    <Compile Include="Micromind.Facade\CompanyAccountSystem.cs" />
+    <Compile Include="Micromind.Facade\CompanyAddressSystem.cs" />
+    <Compile Include="Micromind.Facade\CompanyDivisionSystem.cs" />
+    <Compile Include="Micromind.Facade\CompanyDocTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\CompanyDocumentSystem.cs" />
+    <Compile Include="Micromind.Facade\CompanyInformationSystem.cs" />
+    <Compile Include="Micromind.Facade\CompanyOptionSystem.cs" />
+    <Compile Include="Micromind.Facade\CompetitorSystem.cs" />
+    <Compile Include="Micromind.Facade\ConsignInReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\ConsignInSettlementSystem.cs" />
+    <Compile Include="Micromind.Facade\ConsignInSystem.cs" />
+    <Compile Include="Micromind.Facade\ConsignOutReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\ConsignOutSettlementSystem.cs" />
+    <Compile Include="Micromind.Facade\ConsignOutSystem.cs" />
+    <Compile Include="Micromind.Facade\ContactSystem.cs" />
+    <Compile Include="Micromind.Facade\ContainerSizeSystem.cs" />
+    <Compile Include="Micromind.Facade\ContainerTrackingSystem.cs" />
+    <Compile Include="Micromind.Facade\ControlLayoutSystem.cs" />
+    <Compile Include="Micromind.Facade\CostCategorySystem.cs" />
+    <Compile Include="Micromind.Facade\CostCenterSystem.cs" />
+    <Compile Include="Micromind.Facade\CountrySystem.cs" />
+    <Compile Include="Micromind.Facade\CreditLimitReviewSystem.cs" />
+    <Compile Include="Micromind.Facade\CurrencySystem.cs" />
+    <Compile Include="Micromind.Facade\CustomerAddressSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomerCategorySystem.cs" />
+    <Compile Include="Micromind.Facade\CustomerClassSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomerGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomerInsuranceClaimSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomerInsuranceSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomerSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomGadgetSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomListSystem.cs" />
+    <Compile Include="Micromind.Facade\CustomReportSystem.cs" />
+    <Compile Include="Micromind.Facade\DashboardSystem.cs" />
+    <Compile Include="Micromind.Facade\DatabaseSystem.cs" />
+    <Compile Include="Micromind.Facade\DataSyncSystem.cs" />
+    <Compile Include="Micromind.Facade\DeductionSystem.cs" />
+    <Compile Include="Micromind.Facade\DegreeSystem.cs" />
+    <Compile Include="Micromind.Facade\DeliveryNoteSystem.cs" />
+    <Compile Include="Micromind.Facade\DeliveryReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\DepartmentSystem.cs" />
+    <Compile Include="Micromind.Facade\DestinationSystem.cs" />
+    <Compile Include="Micromind.Facade\DimensionSystem.cs" />
+    <Compile Include="Micromind.Facade\DisciplineActionTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\DiscountBillSystem.cs" />
+    <Compile Include="Micromind.Facade\DiscountChequeSystem.cs" />
+    <Compile Include="Micromind.Facade\DivisionSystem.cs" />
+    <Compile Include="Micromind.Facade\DriverSystem.cs" />
+    <Compile Include="Micromind.Facade\EAEquipmentSystem.cs" />
+    <Compile Include="Micromind.Facade\EmailMessageSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeActivitySystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeActivityTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeAddressSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeAppraisalSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeBenefitDetailSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeDeductionDetailSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeDependentSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeDocTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeDocumentSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeEOSSettlementSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeLeaveDetailSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeLeaveProcessSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeLoanSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeLoanTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeePayrollItemDetailSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeePerformanceSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeProvisionSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeSkillSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeSystem.cs" />
+    <Compile Include="Micromind.Facade\EmployeeTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\EntityCategorySystem.cs" />
+    <Compile Include="Micromind.Facade\EntityCommentSystem.cs" />
+    <Compile Include="Micromind.Facade\EntityDocSystem.cs" />
+    <Compile Include="Micromind.Facade\EntityFlagSystem.cs" />
+    <Compile Include="Micromind.Facade\EOSRuleSystem.cs" />
+    <Compile Include="Micromind.Facade\EquipmentCategorySystem.cs" />
+    <Compile Include="Micromind.Facade\EquipmentSystem.cs" />
+    <Compile Include="Micromind.Facade\EquipmentTransferSystem.cs" />
+    <Compile Include="Micromind.Facade\EquipmentTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\EquipmentWorkOrderSystem.cs" />
+    <Compile Include="Micromind.Facade\EventSystem.cs" />
+    <Compile Include="Micromind.Facade\ExpenseCodeSystem.cs" />
+    <Compile Include="Micromind.Facade\ExportPackingListSystem.cs" />
+    <Compile Include="Micromind.Facade\ExportPickListSystem.cs" />
+    <Compile Include="Micromind.Facade\ExternalReportSystem.cs" />
+    <Compile Include="Micromind.Facade\FiscalYearSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetBulkPurchaseSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetClassSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetDepSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetLocationSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetPurchaseOrderSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetPurchaseSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetSaleSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetSystem.cs" />
+    <Compile Include="Micromind.Facade\FixedAssetTransferSystem.cs" />
+    <Compile Include="Micromind.Facade\FollowupSystem.cs" />
+    <Compile Include="Micromind.Facade\FreightChargeSystem.cs" />
+    <Compile Include="Micromind.Facade\GarmentRentalReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\GarmentRentalSystem.cs" />
+    <Compile Include="Micromind.Facade\GenericListSystem.cs" />
+    <Compile Include="Micromind.Facade\GradeSystem.cs" />
+    <Compile Include="Micromind.Facade\GRNReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\HolidayCalendarSystem.cs" />
+    <Compile Include="Micromind.Facade\HorseSexSystem.cs" />
+    <Compile Include="Micromind.Facade\HorseSummarySystem.cs" />
+    <Compile Include="Micromind.Facade\HorseTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\INCOSystem.cs" />
+    <Compile Include="Micromind.Facade\InsuranceProviderSystem.cs" />
+    <Compile Include="Micromind.Facade\InventoryAdjustmentSystem.cs" />
+    <Compile Include="Micromind.Facade\InventoryDamageSystem.cs" />
+    <Compile Include="Micromind.Facade\InventoryDismantleSystem.cs" />
+    <Compile Include="Micromind.Facade\InventoryRepackingSystem.cs" />
+    <Compile Include="Micromind.Facade\InventoryTransferSystem.cs" />
+    <Compile Include="Micromind.Facade\InventoryTransferTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\IssuedChequeSystem.cs" />
+    <Compile Include="Micromind.Facade\ItemTransactionSystem.cs" />
+    <Compile Include="Micromind.Facade\JobBOMSystem.cs" />
+    <Compile Include="Micromind.Facade\JobEstimationSystem.cs" />
+    <Compile Include="Micromind.Facade\JobExpenseIssueSystem.cs" />
+    <Compile Include="Micromind.Facade\JobInventoryIssueSystem.cs" />
+    <Compile Include="Micromind.Facade\JobInventoryReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\JobInvoiceSystem.cs" />
+    <Compile Include="Micromind.Facade\JobMaintenanceScheduleSystem.cs" />
+    <Compile Include="Micromind.Facade\JobMaintenanceServiceSystem.cs" />
+    <Compile Include="Micromind.Facade\JobManHrsBudgetingSystem.cs" />
+    <Compile Include="Micromind.Facade\JobMaterialEstimateSystem.cs" />
+    <Compile Include="Micromind.Facade\JobMaterialRequisitionSystem.cs" />
+    <Compile Include="Micromind.Facade\JobSystem.cs" />
+    <Compile Include="Micromind.Facade\JobTaskGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\JobTaskSystem.cs" />
+    <Compile Include="Micromind.Facade\JobTimesheetSystem.cs" />
+    <Compile Include="Micromind.Facade\JobTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\JournalSystem.cs" />
+    <Compile Include="Micromind.Facade\LawyerSystem.cs" />
+    <Compile Include="Micromind.Facade\LeadAddressSystem.cs" />
+    <Compile Include="Micromind.Facade\LeadStatusSystem.cs" />
+    <Compile Include="Micromind.Facade\LeadSystem.cs" />
+    <Compile Include="Micromind.Facade\LeaveTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\LegalActionStatusSystem.cs" />
+    <Compile Include="Micromind.Facade\LegalActionSystem.cs" />
+    <Compile Include="Micromind.Facade\LegalActivitySystem.cs" />
+    <Compile Include="Micromind.Facade\LoanEntrySystem.cs" />
+    <Compile Include="Micromind.Facade\LocationSystem.cs" />
+    <Compile Include="Micromind.Facade\LPOReceiptSystem.cs" />
+    <Compile Include="Micromind.Facade\MaintenanceSchedulerSystem.cs" />
+    <Compile Include="Micromind.Facade\MaterialReservationSystem.cs" />
+    <Compile Include="Micromind.Facade\MatrixTemplateSystem.cs" />
+    <Compile Include="Micromind.Facade\MobilizationSystem.cs" />
+    <Compile Include="Micromind.Facade\NationalitySystem.cs" />
+    <Compile Include="Micromind.Facade\NoteSystem.cs" />
+    <Compile Include="Micromind.Facade\OpeningBalanceBatchSystem.cs" />
+    <Compile Include="Micromind.Facade\OpeningBalanceLeaveSystem.cs" />
+    <Compile Include="Micromind.Facade\OpeningEntryTransactionSystem.cs" />
+    <Compile Include="Micromind.Facade\OpportunitySystem.cs" />
+    <Compile Include="Micromind.Facade\OverTimeEntrySystem.cs" />
+    <Compile Include="Micromind.Facade\OverTimeSystem.cs" />
+    <Compile Include="Micromind.Facade\PartySystem.cs" />
+    <Compile Include="Micromind.Facade\PatientDocTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\PatientDocumentSystem.cs" />
+    <Compile Include="Micromind.Facade\PatientSystem.cs" />
+    <Compile Include="Micromind.Facade\PaymentMethodSystem.cs" />
+    <Compile Include="Micromind.Facade\PaymentRequestSystem.cs" />
+    <Compile Include="Micromind.Facade\PayrollItemSystem.cs" />
+    <Compile Include="Micromind.Facade\PayrollTransactionSystem.cs" />
+    <Compile Include="Micromind.Facade\PhysicalStockEntrySystem.cs" />
+    <Compile Include="Micromind.Facade\PivotGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\PivotSystem.cs" />
+    <Compile Include="Micromind.Facade\PortSystem.cs" />
+    <Compile Include="Micromind.Facade\POSBatchSystem.cs" />
+    <Compile Include="Micromind.Facade\POSCashRegisterSystem.cs" />
+    <Compile Include="Micromind.Facade\POShipmentSystem.cs" />
+    <Compile Include="Micromind.Facade\POSHoldSystem.cs" />
+    <Compile Include="Micromind.Facade\PositionSystem.cs" />
+    <Compile Include="Micromind.Facade\POSShiftSystem.cs" />
+    <Compile Include="Micromind.Facade\PriceLevelSystem.cs" />
+    <Compile Include="Micromind.Facade\PriceListSystem.cs" />
+    <Compile Include="Micromind.Facade\PrintTemplateMapSystem.cs" />
+    <Compile Include="Micromind.Facade\PrintTemplateSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductAttributeSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductBrandSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductCategorySystem.cs" />
+    <Compile Include="Micromind.Facade\ProductClassSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductionSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductMakeSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductManufacturerSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductModelSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductParentSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductPriceBulkUpdateSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductSizeSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductSpecificationSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductStyleSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductSystem.cs" />
+    <Compile Include="Micromind.Facade\ProductTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\ProjectExpenseAllocationSystem.cs" />
+    <Compile Include="Micromind.Facade\ProjectSubContractPISystem.cs" />
+    <Compile Include="Micromind.Facade\ProjectSubContractPOSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyAgentSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyCancelSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyCategorySystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyClassSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyDocTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyDocumentSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyIncomeCodeSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyRentSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyServiceSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertySystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyTenantDocTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyTenantDocumentSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyUnitSystem.cs" />
+    <Compile Include="Micromind.Facade\PropertyVirtualUnitSystem.cs" />
+    <Compile Include="Micromind.Facade\ProvisionTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseClaimSystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseCostEntrySystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseInvoiceNISystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseInvoiceSystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseOrderNISystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseOrderSystem.cs" />
+    <Compile Include="Micromind.Facade\PurchasePrepaymentInvoiceSystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseQuoteSystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseReceiptSystem.cs" />
+    <Compile Include="Micromind.Facade\PurchaseReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\QualityClaimSystem.cs" />
+    <Compile Include="Micromind.Facade\QualityTaskSystem.cs" />
+    <Compile Include="Micromind.Facade\RackSystem.cs" />
+    <Compile Include="Micromind.Facade\ReceivedChequeSystem.cs" />
+    <Compile Include="Micromind.Facade\RecurringInvoiceSystem.cs" />
+    <Compile Include="Micromind.Facade\RegisterSystem.cs" />
+    <Compile Include="Micromind.Facade\ReleaseTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\ReligionSystem.cs" />
+    <Compile Include="Micromind.Facade\ReminderSystem.cs" />
+    <Compile Include="Micromind.Facade\RentalPostingSystem.cs" />
+    <Compile Include="Micromind.Facade\RequisitionSystem.cs" />
+    <Compile Include="Micromind.Facade\RequisitionTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\ReturnedChequeReasonSystem.cs" />
+    <Compile Include="Micromind.Facade\RiderSummarySystem.cs" />
+    <Compile Include="Micromind.Facade\RouteGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\RouteSystem.cs" />
+    <Compile Include="Micromind.Facade\SalarySheetSystem.cs" />
+    <Compile Include="Micromind.Facade\SalarySystem.cs" />
+    <Compile Include="Micromind.Facade\SalesEnquirySystem.cs" />
+    <Compile Include="Micromind.Facade\SalesForecastingSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesInvoiceNISystem.cs" />
+    <Compile Include="Micromind.Facade\SalesInvoiceSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesManTargetSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesOrderSystem.cs" />
+    <Compile Include="Micromind.Facade\SalespersonGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\SalespersonSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesPOSSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesProformaSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesQuoteSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesReceiptSystem.cs" />
+    <Compile Include="Micromind.Facade\SalesReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\ScheduleSystem.cs" />
+    <Compile Include="Micromind.Facade\SecuritySystem.cs" />
+    <Compile Include="Micromind.Facade\SendChequeSystem.cs" />
+    <Compile Include="Micromind.Facade\ServiceActivitySystem.cs" />
+    <Compile Include="Micromind.Facade\ServiceCallTrackSystem.cs" />
+    <Compile Include="Micromind.Facade\ServiceTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\SettingSystem.cs" />
+    <Compile Include="Micromind.Facade\ShippingMethodSystem.cs" />
+    <Compile Include="Micromind.Facade\ShortcutSystem.cs" />
+    <Compile Include="Micromind.Facade\SkillSystem.cs" />
+    <Compile Include="Micromind.Facade\SmartListSystem.cs" />
+    <Compile Include="Micromind.Facade\SponsorSystem.cs" />
+    <Compile Include="Micromind.Facade\StandingJournalSystem.cs" />
+    <Compile Include="Micromind.Facade\SurveyorSystem.cs" />
+    <Compile Include="Micromind.Facade\SystemDocumentSystem.cs" />
+    <Compile Include="Micromind.Facade\TaskStepsSystem.cs" />
+    <Compile Include="Micromind.Facade\TaskTransactionStatusSystem.cs" />
+    <Compile Include="Micromind.Facade\TaskTransactionSystem.cs" />
+    <Compile Include="Micromind.Facade\TaskTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\TaxGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\TaxSystem.cs" />
+    <Compile Include="Micromind.Facade\TenancyContractSystem.cs" />
+    <Compile Include="Micromind.Facade\TermSystem.cs" />
+    <Compile Include="Micromind.Facade\TradeLicenseSystem.cs" />
+    <Compile Include="Micromind.Facade\TransactionSystem.cs" />
+    <Compile Include="Micromind.Facade\TransporterSystem.cs" />
+    <Compile Include="Micromind.Facade\TRApplicationSystem.cs" />
+    <Compile Include="Micromind.Facade\UDFSystem.cs" />
+    <Compile Include="Micromind.Facade\UnitSystem.cs" />
+    <Compile Include="Micromind.Facade\UserFavoriteSystem.cs" />
+    <Compile Include="Micromind.Facade\UserGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\UserSystem.cs" />
+    <Compile Include="Micromind.Facade\VehicleDocTypeSystem.cs" />
+    <Compile Include="Micromind.Facade\VehicleDocumentSystem.cs" />
+    <Compile Include="Micromind.Facade\VehicleMaintenanceEntrySystem.cs" />
+    <Compile Include="Micromind.Facade\VehicleMileageTrackSystem.cs" />
+    <Compile Include="Micromind.Facade\VehicleSystem.cs" />
+    <Compile Include="Micromind.Facade\VendorAddressSystem.cs" />
+    <Compile Include="Micromind.Facade\VendorClassSystem.cs" />
+    <Compile Include="Micromind.Facade\VendorGroupSystem.cs" />
+    <Compile Include="Micromind.Facade\VendorSystem.cs" />
+    <Compile Include="Micromind.Facade\VisaSystem.cs" />
+    <Compile Include="Micromind.Facade\W3PLDeliverySystem.cs" />
+    <Compile Include="Micromind.Facade\W3PLGRNSystem.cs" />
+    <Compile Include="Micromind.Facade\W3PLInvoiceSystem.cs" />
+    <Compile Include="Micromind.Facade\WebDashboardSystem.cs" />
+    <Compile Include="Micromind.Facade\WorkLocationSystem.cs" />
+    <Compile Include="Micromind.Facade\WorkOrderInventoryIssueSystem.cs" />
+    <Compile Include="Micromind.Facade\WorkOrderInventoryReturnSystem.cs" />
+    <Compile Include="Micromind.Facade\WorkOrderSystem.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

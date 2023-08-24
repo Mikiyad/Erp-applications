@@ -1,0 +1,35 @@
+E:\ERP All DLL\axseccontrol\obj\Debug\axseccontrol.csprojAssemblyReference.cache
+E:\ERP All DLL\axseccontrol\obj\Debug\axseccontrol.csproj.CoreCompileInputs.cache
+E:\ERP All DLL\axseccontrol\bin\Debug\axseccontrol.dll
+E:\ERP All DLL\axseccontrol\bin\Debug\axseccontrol.pdb
+E:\ERP All DLL\axseccontrol\bin\Debug\System.Management.dll
+E:\ERP All DLL\axseccontrol\obj\Debug\axseccontrol.csproj.CopyComplete
+E:\ERP All DLL\axseccontrol\obj\Debug\axseccontrol.dll
+E:\ERP All DLL\axseccontrol\obj\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axseccontrol\bin\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axseccontrol\bin\Debug\axseccontrol.pdb
+C:\Users\Administrator\Desktop\Axolon\Class Library\axseccontrol\bin\Debug\System.Management.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.dll
+C:\Users\Administrator\Desktop\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\axseccontrol\bin\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\axseccontrol\bin\Debug\axseccontrol.pdb
+G:\Software code\Axolon\Class Library\axseccontrol\bin\Debug\System.Management.dll
+G:\Software code\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.csprojAssemblyReference.cache
+G:\Software code\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.csproj.CopyComplete
+G:\Software code\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.dll
+G:\Software code\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\bin\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\bin\Debug\axseccontrol.pdb
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\bin\Debug\System.Management.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.csproj.CoreCompileInputs.cache
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.csproj.CopyComplete
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.dll
+D:\work\systems\erp_axolon\Axolon\Class Library\axseccontrol\obj\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axseccontrol\bin\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axseccontrol\bin\Debug\axseccontrol.pdb
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axseccontrol\bin\Debug\System.Management.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axseccontrol\obj\Debug\axseccontrol.csproj.CoreCompileInputs.cache
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axseccontrol\obj\Debug\axseccontrol.csproj.CopyComplete
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axseccontrol\obj\Debug\axseccontrol.dll
+C:\Users\user0\Desktop\systems\Axolon_new\Class Library\axseccontrol\obj\Debug\axseccontrol.pdb
